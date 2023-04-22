@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="{{ asset('css/include/announcements.css') }}">
+
+</head>
 <div class="pre-announcements">
     <div class="announcements">
         <main class="announcements-main">

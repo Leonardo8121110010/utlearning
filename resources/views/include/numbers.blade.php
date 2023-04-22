@@ -1,4 +1,6 @@
 <head>
+<link rel="stylesheet" href="{{ asset('css/include/numbers.css') }}">
+
 </head>
 <div>
     <div class="numbers">

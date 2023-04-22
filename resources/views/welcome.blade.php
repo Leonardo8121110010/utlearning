@@ -4,7 +4,7 @@
 @section('content')
 
 <head>
-@vite(['resources/js/welcome.js'])
+<link rel="stylesheet" href="{{ asset('css/welcome.css') }}">
 </head>
 <div>
     <div class="container">
@@ -72,6 +72,7 @@
         </div>
         <div class="welcome-two">
             <p>{{ __('Social media')}}</p>
+            <img class="welcome-img" src="{{ asset('img/login/modelo-login.png') }}">
             <a href="https://www.facebook.com/UTChetumal/" class="facebook" target="_blank"><i class="fa-brands fa-facebook-f facebook-icon"></i></a>
             <a href="https://www.instagram.com/ut_chetumal/" class="instagram" target="_blank"><i class="fa-brands fa-instagram instagram-icon"></i></a>
             <a href="https://twitter.com/UTChetumal" class="twitter" target="_blank"><i class="fa-brands fa-twitter twitter-icon"></i></a>

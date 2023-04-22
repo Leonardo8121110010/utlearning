@@ -1,4 +1,5 @@
 <head>
+<link rel="stylesheet" href="{{ asset('css/include/banner.css') }}">
 
 </head>
 
