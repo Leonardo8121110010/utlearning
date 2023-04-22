@@ -4,7 +4,7 @@
 @section('content')
 
 <head>
-@vite(['resources/css/welcome.css'])
+@vite(['resources/js/welcome.js'])
 </head>
 <div>
     <div class="container">

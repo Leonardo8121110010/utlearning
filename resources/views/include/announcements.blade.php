@@ -1,5 +1,4 @@
 <head>
-@vite(['resources/css/include/announcements.css'])
 
 </head>
 

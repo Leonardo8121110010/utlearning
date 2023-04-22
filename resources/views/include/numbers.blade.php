@@ -1,5 +1,4 @@
 <head>
-@vite(['resources/css/include/numbers.css'])
 </head>
 <div>
     <div class="numbers">
