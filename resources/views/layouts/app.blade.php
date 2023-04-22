@@ -24,7 +24,7 @@
     <!--nav-->
     <div class="topnav">
         <a href="/">
-             <img src="{{ secure_asset('public/img/logo_UT_white.png') }}">
+             <img src="{{ secure_asset('img/logo_UT_white.png') }}">
         </a>
         <div class="dropdown">
             <button class="dropbtn"><b>{{ __('Select a language')}}</b>
