@@ -14,7 +14,7 @@
     <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
     <!--Css general-->
-    <link rel="stylesheet" href="@vite('resources/css/app.css')">
+    @vite('resources/css/app.css')
 
     <!--Font Awesome 6-->
     <script src="https://kit.fontawesome.com/a8d4026847.js" crossorigin="anonymous"></script>
