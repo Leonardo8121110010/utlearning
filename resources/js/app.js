@@ -1,2 +1,2 @@
 import './bootstrap';
-import '../welcome.css';
+import '../css/welcome.css';
