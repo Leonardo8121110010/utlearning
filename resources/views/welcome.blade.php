@@ -5,6 +5,8 @@
 
 <head>
 <link rel="stylesheet" href="{{ secure_asset('build/assets/welcome.css') }}">
+@vite('resources/js/app.js')
+
 </head>
 <div>
     <div class="container">
