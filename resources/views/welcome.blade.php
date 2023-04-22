@@ -4,7 +4,7 @@
 @section('content')
 
 <head>
-@vite(['resources/css/welcome.css'])
+@vite(['resources/js/welcome.js'])
 </head>
 <div>
     <div class="container">
@@ -82,7 +82,7 @@
         </div>
     </div>
 </div>
-<div style='margin-top: -150px;'>
+<div style='margin-top: -150px;     scroll-snap-type: y mandatory;'>
     @include('include.announcements')
 </div>
 <div class="section-two">
