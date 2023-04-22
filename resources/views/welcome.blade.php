@@ -4,7 +4,7 @@
 @section('content')
 
 <head>
-<link rel="stylesheet" href="{{ secure_asset('css/welcome.css') }}">
+<link rel="stylesheet" href="{{ secure_asset('build/assets/welcome.css') }}">
 </head>
 <div>
     <div class="container">
