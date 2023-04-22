@@ -1,4 +1,5 @@
 <head>
+@vite(['resources/css/include/banner.css'])
 
 </head>
 
